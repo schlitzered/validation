@@ -8,7 +8,7 @@ been loaded into a python variable via json.load() / json.loads().
 Documentation
 -------------
 
-http://validation.readthedocs.org/
+http://validation_py.readthedocs.org/
 
 Installing
 ----------
